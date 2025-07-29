@@ -1,0 +1,51 @@
+title: Lightweight charts react components
+description: A set of React components for building financial charts with lightweight-charts library by TradingView.
+logo: lightweight-charts-react-components.svg
+developer: null
+based_on:
+  - lightweight-charts
+licenses:
+  - type: open-source
+    title: MIT
+    link: 'https://github.com/ukorvl/lightweight-charts-react-components/blob/main/lib/LICENSE'
+types:
+  - charts
+renders:
+  - canvas
+features:
+  easy-to-customize: 0
+  easy-to-start-with: 0
+  full-fledged: 0
+  very-popular: 0
+  well-documented: 0
+gallery: []
+languages:
+  - JavaScript
+  - TypeScript
+frameworks:
+  - react
+slugs:
+  github: ukorvl/lightweight-charts-react-components
+  npm: 'lightweight-charts-react-components'
+tags:
+  stackoverflow: null
+  twitter: null
+links:
+  website: 'https://ukorvl.github.io/lightweight-charts-react-components/'
+  examples: 'https://ukorvl.github.io/lightweight-charts-react-components/'
+  docs: 'https://ukorvl.github.io/lightweight-charts-react-components/'
+  pricing: null
+  slack: null
+content:
+  - type: official
+    title: Getting Started
+    link: 'https://ukorvl.github.io/lightweight-charts-react-components/'
+github_data:
+  stars: 31
+  contributors: 4
+  issues: 31
+  stale_issues: 2
+  last_release:
+    date: '2025-07-23T12:10:00Z'
+    link: 'https://github.com/ukorvl/lightweight-charts-react-components/releases/tag/v1.2.0'
+stackoverflow_data: null
